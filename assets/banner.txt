@@ -1,0 +1,9 @@
+====================================================
+|                                                  |
+|             SCHOOL API PROJECT                   |
+|          TEACHER-STUDENT MANAGEMENT              |
+|                                                  |
+====================================================
+
+Not: Bu bir placeholder'dır. Lütfen bunu gerçek bir 
+banner.png görseli ile değiştirin. 

@@ -1,0 +1,5 @@
+Django==4.2.21
+djangorestframework==3.15.2
+drf-yasg==1.21.10
+# PostgreSQL bağlantısı için (opsiyonel)
+# psycopg2-binary==2.9.10 
